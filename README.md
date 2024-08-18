@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👯 I’m looking to collaborate on **Angular projects**
+- 👯 I’m looking to collaborate on **Spring projects**
 
 - 📫 How to reach me **mousrijhamza1@gmail.com**
 
