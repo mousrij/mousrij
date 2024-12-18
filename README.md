@@ -63,11 +63,11 @@
 
 <h3 align="left">Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousrijhamza&show_icons=true&locale=en&layout=compact" alt="mousrijhamza" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khamzatMurj&show_icons=true&locale=en&layout=compact" alt="khamzatMurj" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mousrijhamza&show_icons=true&locale=en" alt="mousrijhamza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khamzatMurj&show_icons=true&locale=en" alt="khamzatMurj" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mousrijhamza&" alt="mousrijhamza" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamzatMurj&" alt="khamzatMurj" />
 </p>
