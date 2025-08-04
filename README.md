@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/khamzatMurj/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mousrij/count.svg?"  />
 </div>
 
 ###
@@ -97,9 +97,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khamzatMurj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khamzatMurj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="220" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=khamzatMurj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mousrij&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mousrij&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mousrij&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
